@@ -24,3 +24,21 @@ Total Summary:
 Lot Summary:
 
 <img width="494" alt="Screen Shot 2022-02-05 at 9 41 06 PM" src="https://user-images.githubusercontent.com/91562577/152665809-8560d742-9158-4e35-9ff2-d7c50d7498e1.png">
+
+
+## T-Tests on Suspension Coils
+
+T-Test for all manufacturing lots:
+<img width="409" alt="Screen Shot 2022-02-05 at 10 04 51 PM" src="https://user-images.githubusercontent.com/91562577/152666229-8c391abe-8640-4173-9ca0-2cf8e84e9223.png">
+
+T-Test for lot 1:
+
+
+T-Test for lot 2:
+
+
+T-Test for lot 3:
+
+
+
+
