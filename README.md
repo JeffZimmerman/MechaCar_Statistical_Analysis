@@ -29,15 +29,20 @@ Lot Summary:
 ## T-Tests on Suspension Coils
 
 T-Test for all manufacturing lots:
+
 <img width="409" alt="Screen Shot 2022-02-05 at 10 04 51 PM" src="https://user-images.githubusercontent.com/91562577/152666229-8c391abe-8640-4173-9ca0-2cf8e84e9223.png">
 
 T-Test for lot 1:
 
+<img width="573" alt="Screen Shot 2022-02-05 at 10 07 12 PM" src="https://user-images.githubusercontent.com/91562577/152666276-08145a74-daaa-4a71-83a0-2af95c219682.png">
 
 T-Test for lot 2:
 
+<img width="570" alt="Screen Shot 2022-02-05 at 10 07 30 PM" src="https://user-images.githubusercontent.com/91562577/152666284-a04b0eed-ba93-4708-a9f7-b33d8edbb26f.png">
 
 T-Test for lot 3:
+
+<img width="567" alt="Screen Shot 2022-02-05 at 10 07 52 PM" src="https://user-images.githubusercontent.com/91562577/152666289-c9771283-7bd2-4a23-b7f6-f9111fc95e2f.png">
 
 
 
