@@ -51,5 +51,8 @@ T-Test for lot 3:
 
 ## Study Design: MechaCar vs. Competition
 The success of MechaCar depends on its performance against competitors, and since consumers are interested in a package of variables in choosing one car over another, further study could benefit from an ANOVA test. This will potentially provide insight as to whether there is a statistical difference between the distribution means from multiple samples. 
-Considering a specific type of consumer means that different metrics will be more prominent. For a young family with children living in an urban area, the most important metrics might be city fuel efficiency, maintenance cost, and safety rating. The null hypothesis is that MechaCar will not score significantly differently from competitors in these categories. If the alternative hypothesis is true, the study will be able to identify where MechaCar scores significantly worse than the competition, and thus suggest areas needing improvement, or areas where MechaCar outpaces the competition that could be the basis for a new advertising campaign. 
+
+Considering a specific type of consumer means that certain metrics will be more prominent in their decision-making process. For a young family with children living in an urban area, the most important metrics might be city fuel efficiency, maintenance cost, and safety rating. 
+
+The null hypothesis is that MechaCar will not score significantly differently from competitors in these categories. If the alternative hypothesis is true, the study will be able to identify where MechaCar scores significantly worse than the competition, and thus suggest areas needing improvement, or areas where MechaCar outpaces the competition that could be the basis for a new advertising campaign touting these advantages. 
 
