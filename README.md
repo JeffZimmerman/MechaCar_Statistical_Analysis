@@ -27,7 +27,10 @@ Lot Summary:
 
 
 ## T-Tests on Suspension Coils
-The analysis draws on t-tests of all manufacturing lots and each lot individually to see if they are statistically different from the population mean of 1,500 pounds per square inch. The p-value for all lots was 0.06, indicating not enough statistical difference from the population mean to reject the null hypothesis. Similarly, Lot 1 had a p-value of 1, and lot 2 had a p-value of 0.60, so neither is statistically different. Only lot 3 showed statistical difference from the population mean, with a p-value of 0.04.
+The analysis draws on t-tests of all manufacturing lots and each lot individually to see if they are statistically different from the population mean of 1,500 pounds per square inch. 
+* The p-value for all lots was 0.06, indicating not enough statistical difference from the population mean to reject the null hypothesis. 
+* Similarly, Lot 1 had a p-value of 1, and lot 2 had a p-value of 0.60, so neither is statistically different. 
+* Only lot 3 showed statistical difference from the population mean, with a p-value of 0.04.
 
 T-Test for all manufacturing lots:
 
